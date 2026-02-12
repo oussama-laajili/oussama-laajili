@@ -74,34 +74,7 @@ React + NestJS system with authentication, statistics dashboards, filtering, cha
 ### 📊 Advanced Dashboard Systems
 Interactive analytics dashboards with charts, filtering, pagination & secure APIs.
 
----
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/oussama-laajili/YOUR-REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oussama-laajili&repo=YOUR-REPO-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/oussama-laajili/YOUR-REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oussama-laajili&repo=YOUR-REPO-2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![Oussama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussama-laajili&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-laajili&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=oussama-laajili&theme=tokyonight)
-
----
 
 ## 🐍 Contribution Snake
 
